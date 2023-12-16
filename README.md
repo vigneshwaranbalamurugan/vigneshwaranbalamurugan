@@ -37,7 +37,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)-->
 ## GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
+[![My GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&count_private=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
 <br>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaranbalamurugan&theme=gotham&hide_border=false)
