@@ -1,6 +1,7 @@
 # Hello, World! 👋
 
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>-->
 
 ## About Me
 <!--- 🔭 I’m currently working on [Current Project/Job].-->
@@ -47,5 +48,8 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ## GitHub Trophies
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
