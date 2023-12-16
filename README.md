@@ -29,7 +29,8 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-waran-765863257)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/22CSR235)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vigneshwaranbalamurugan/)
-
+## GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)
 
