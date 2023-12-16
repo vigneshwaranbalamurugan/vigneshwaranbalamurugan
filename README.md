@@ -4,6 +4,7 @@ I'm [Vigneshwaran], a passionate [Computer Science] from [Kongu Engineering Coll
 
 ## About Me
 <!--- 🔭 I’m currently working on [Current Project/Job].-->
+- 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
 - 🌱 I’m currently learning [web Technoloy].
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].
