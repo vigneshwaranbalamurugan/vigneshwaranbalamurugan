@@ -29,9 +29,19 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-waran-765863257)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/22CSR235)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vigneshwaranbalamurugan/)
-## GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
-<!--- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Website or Blog Link)
 
-Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
+<!--- [Twitter](Your Twitter Profile Link)
+- [Personal Website/Blog](Your Website or Blog Link)-->
+## GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
+<br>
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaranbalamurugan&theme=gotham&hide_border=false)
+<br>
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## GitHub Trophies
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
+
+<!--Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
