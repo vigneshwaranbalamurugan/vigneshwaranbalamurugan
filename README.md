@@ -5,7 +5,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ## About Me
 <!--- 🔭 I’m currently working on [Current Project/Job].-->
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-- 🌱 I’m currently learning web Technoloy.
+- 🌱 I’m currently learning Web Technoloy and Cyber Security.
 - 😄 Pronouns: He,Him.
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].
@@ -19,9 +19,12 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/)
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 -->
