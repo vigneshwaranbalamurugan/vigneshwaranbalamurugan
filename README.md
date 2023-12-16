@@ -26,7 +26,7 @@ I'm [Vigneshwaran], a passionate [Computer Science] from [Kongu Engineering Coll
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 -->
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/vignesh-waran-765863257)
+- [LinkedIn](https://www.linkedin.com/in/vignesh-waran-765863257)
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)
 
