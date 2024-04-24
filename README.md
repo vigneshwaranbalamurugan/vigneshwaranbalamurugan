@@ -1,7 +1,7 @@
 ## Welcome to My Profile! 👋
 
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>
 
 ## About Me
 <!--- 🔭 I’m currently working on [Current Project/Job].-->
