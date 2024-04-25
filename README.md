@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/main/image.png" alt="Vigneshwaran" />
 </h1>
+
 ## Welcome to My Profile! 👋 
 
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
