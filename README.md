@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Marton Lederer" />
+  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/main/image.png" alt="Vigneshwaran" />
 </h1>
 ## Welcome to My Profile! 👋 
 
