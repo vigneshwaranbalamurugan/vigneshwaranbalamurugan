@@ -49,8 +49,11 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaranbalamurugan?theme=dark&font=Marcellus&ext=heatmap)
+
 ## GitHub Trophies
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamuruga&theme=radical&no-frame=true&no-bg=true&margin-w=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
