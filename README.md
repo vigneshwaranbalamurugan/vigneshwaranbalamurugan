@@ -1,12 +1,12 @@
-## Welcome to My Profile! 👋
+## Welcome to My Profile! 👋 
 
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>
 
 ## About Me
 <!--- 🔭 I’m currently working on [Current Project/Job].-->
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
 - 🌱 I’m currently learning Web Technoloy and Cyber Security.
+- 🧑‍🤝‍🧑 I'm looking to collaborate on Freelance projects
 - 😄 Pronouns: He,Him.
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].
@@ -57,5 +57,6 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>
 
 <!--Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
