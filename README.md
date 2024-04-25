@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="" alt="Marton Lederer" />
+</h1>
 ## Welcome to My Profile! 👋 
 
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
