@@ -61,7 +61,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-db" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwaran" /> </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center">
