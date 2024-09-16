@@ -31,12 +31,15 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Programming Languages </h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,dart)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart)
 
 <h3 align="left">Web Development</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,nextjs,tailwind,threejs)
 
+<h3 align="left">Design</h3>
+
+![My Skills](https://skillicons.dev/icons?i=canva,webflow,figma)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
