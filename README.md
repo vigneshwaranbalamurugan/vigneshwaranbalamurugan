@@ -45,6 +45,10 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
+<h3 align="left">Web Development</h3>
+
+![My Skills](https://skillicons.dev/icons?i=react,flutter)
+
 
 <h3 align="left">Design</h3>
 
