@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/main/Giithub%20Info.svg" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
+  <img src="https://raw.githubusercontent.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/44b3b996695c1a4b780a001de200b2b659f23aa3/Giithub%20Info.svg" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
 </h1>
 
 
