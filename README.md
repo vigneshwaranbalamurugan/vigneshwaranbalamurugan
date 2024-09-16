@@ -39,7 +39,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Design</h3>
 
-![My Skills](https://skillicons.dev/icons?i=canva,webflow,figma)
+![My Skills](https://skillicons.dev/icons?i=webflow,figma) <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50" align="left">
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
