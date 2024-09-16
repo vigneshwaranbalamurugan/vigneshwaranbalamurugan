@@ -37,6 +37,10 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,nextjs,tailwind,threejs)
 
+<h3 align="left">Framework</h3>
+
+![My Skills](https://skillicons.dev/icons?i=spring,django,react,flask)
+
 <h3 align="left">Design</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=webflow,figma) <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50" >
@@ -44,6 +48,10 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 <h3 align="left">Cloud Deployment</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel) <img src="https://global.discourse-cdn.com/business6/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg" alt="onrender" width="49" height="49" style="border-radius:5px;" >
+
+<h3 align="left">Tools & IDEA</h3>
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,arduino,idea)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
