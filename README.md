@@ -8,16 +8,24 @@
 I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
 
 ## About Me
-<!--- 🔭 I’m currently working on [Current Project/Job].-->
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-- 🌱 I’m currently learning Web Technoloy and Cyber Security.
+- 🌱 I’m currently working on <b>MERN Stack</b>
+- 🔭 I’m currently learning <b>App Development</b><br>
 - 🧑‍🤝‍🧑 I'm looking to collaborate on Freelance projects
+- 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>.
 - 😄 Pronouns: He,Him.
+- 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].
-- 💬 Ask me about [Your expertise or interests].
-- 📫 How to reach me: [Your Email or Social Media Links].-->
 <!--- ⚡ Fun fact: [Interesting Fun Fact about Yourself].-->
+
+## Connect with Me 
+  
+[![Email](https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vigneshwaranb.22cse@kongu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-waran-bala/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/22CSR235)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vigneshwaranbalamurugan/)
+
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,11 +45,6 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 -->
-## Connect with Me
-[![Email](https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vigneshwaranb.22cse@kongu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-waran-bala/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/22CSR235)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vigneshwaranbalamurugan/)
 
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)-->
