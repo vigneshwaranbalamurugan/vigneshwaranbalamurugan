@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/6e270a79834d9687cdd1526d2d6ae995eedebd55/MyInfo.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
+  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/main/MyInfo.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
 </h1>
 
 
