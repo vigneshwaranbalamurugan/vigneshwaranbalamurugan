@@ -9,7 +9,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ## About Me
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-- 🌱 I’m currently working on <b>MERN Stack</b>
+- 🌱 I’m currently working on <b>Spring Boot Framework</b>
 - 🔭 I’m currently learning <b>App Development</b><br>
 - 🧑‍🤝‍🧑 I'm looking to collaborate on Freelance projects
 - 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>.
