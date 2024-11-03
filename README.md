@@ -16,8 +16,9 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 - 😄 Pronouns: He,Him.
 - 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
-- 🤔 I’m looking for help with [Something you need help with].
-<!--- ⚡ Fun fact: [Interesting Fun Fact about Yourself].-->
+- 🤔 I’m looking for help with [Something you need help with].-->
+⚡ Fun fact: I dabble in 🎬 Video editing and 🎨 Poster Designing!
+.
 
 ## Connect with Me 
   
