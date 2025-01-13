@@ -32,11 +32,11 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Programming Languages </h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
 
 <h3 align="left">Web Development</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,nextjs,tailwind,threejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,nextjs,threejs)
 
 <h3 align="left">Framework</h3>
 
@@ -48,7 +48,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">App Development</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,flutter)
+![My Skills](https://skillicons.dev/icons?i=react)
 
 
 <h3 align="left">Design</h3>
@@ -61,7 +61,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Tools & IDE</h3>
 
-![My Skills](https://skillicons.dev/icons?i=windows,mint,raspberrypi,git,github,vscode,arduino,idea,postman,firebase,fastapi,androidstudio,)
+![My Skills](https://skillicons.dev/icons?i=windows,mint,raspberrypi,git,github,vscode,arduino,idea,postman,firebase,fastapi)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
