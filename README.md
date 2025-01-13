@@ -59,9 +59,13 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel) <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/20bb4b459e85c303365179ea2e4446c1f08cb2ec/render.png" alt="onrender" width="49" height="49" style="border-radius:5px;" >
 
+<h3 align="left">Devops</h3>
+
+![My Skills](https://skillicons.dev/icons?i=docker,githubactions,kubernetes)
+
 <h3 align="left">Tools & IDE</h3>
 
-![My Skills](https://skillicons.dev/icons?i=windows,mint,raspberrypi,git,github,vscode,arduino,idea,postman,firebase,fastapi)
+![My Skills](https://skillicons.dev/icons?i=windows,mint,raspberrypi,git,github,vscode,arduino,idea,postman,firebase,fastapi,graphql)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
