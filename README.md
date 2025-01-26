@@ -94,7 +94,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </p>
 
 <!--Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
