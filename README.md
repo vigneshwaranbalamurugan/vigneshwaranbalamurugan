@@ -32,9 +32,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ## Tech Stack
 
-<h3 align="left">Programming Languages </h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
 
 <h3 align="left">Web Development</h3>
 
@@ -52,6 +50,10 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ![My Skills](https://skillicons.dev/icons?i=react)
 
+<h3 align="left">Programming Languages </h3>
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
+
 <!--
 <h3 align="left">Design</h3>
 
@@ -62,13 +64,9 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 ![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel) <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/20bb4b459e85c303365179ea2e4446c1f08cb2ec/render.png" alt="onrender" width="49" height="49" style="border-radius:5px;" >
 
-<h3 align="left">Devops</h3>
-
-![My Skills](https://skillicons.dev/icons?i=docker)
-
 <h3 align="left">Tools & IDE</h3>
 
-![My Skills](https://skillicons.dev/icons?i=windows,mint,git,github,vscode,idea,postman)
+![My Skills](https://skillicons.dev/icons?i=docker,windows,mint,git,github,vscode,idea,postman)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
