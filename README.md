@@ -15,7 +15,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 - 🌱 I’m currently working on <b>Spring Boot Framework</b>
 - 🔭 I’m currently learning <b>Devops</b><br><!-- - 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>.-->
 - 😄 Pronouns: He,Him.
-- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1tsXiqSm4ksrEhlh9m913XFzU7dbhXOVM/view?usp=sharing)**
+<!-- - 📄 Check it out **[My Resume](https://drive.google.com/file/d/1tsXiqSm4ksrEhlh9m913XFzU7dbhXOVM/view?usp=sharing)** -->
 - 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
