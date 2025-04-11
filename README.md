@@ -69,7 +69,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Tools & IDE</h3>
 
-![My Skills](https://skillicons.dev/icons?i=docker,windows,mint,git,github,vscode,idea,postman)
+![My Skills](https://skillicons.dev/icons?i=windows,mint,git,github,vscode,idea,postman)
 
 <!--## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
