@@ -2,6 +2,24 @@
   <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/c1b6634e079ea6d466c6a7ba85b6591fe110db7e/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
 </h1>
 
+
+
+<!-- Portfolio Showcase Container -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vigneshwaran!;Full-Stack+Web+Developer;Tech+Explorer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
+
+  <br />
+  <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio-badge"/>
+  <br />
+  <a href="https://vigneshwaran.tech" target="_blank">
+    🚀 <b>Explore My Portfolio</b> 🌐
+  </a>
+
+<br>
+
+</div>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwaran" /> </p>
 
 
