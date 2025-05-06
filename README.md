@@ -34,7 +34,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 - 🔭 I’m currently learning <b>Devops & AWS</b>
 - 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>
 - 😄 Pronouns: He,Him.
-- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1HDSDIF53Rlwx1FizZllqyc7FTnJLp0xS/view)** 
+- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)** 
 - 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
