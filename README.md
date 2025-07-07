@@ -88,7 +88,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&layout=compact" alt="top-langs" />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -96,7 +96,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
   <img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
