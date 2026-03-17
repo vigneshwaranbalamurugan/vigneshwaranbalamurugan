@@ -44,13 +44,13 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ## Tech Stack
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
 
 ### Web Development
 ![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,tailwind,vite)
 
 ###  Frameworks & Libraries
-![Skills](https://skillicons.dev/icons?i=react,spring,django,flask)
+![Skills](https://skillicons.dev/icons?i=react,spring,django)
 
 ### Databases
 ![Skills](https://skillicons.dev/icons?i=mysql,mongodb)
@@ -59,7 +59,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ![Skills](https://skillicons.dev/icons?i=react)
 
 ### DevOps
-![Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes)
+![Skills](https://skillicons.dev/icons?i=docker,jenkins)
 
 ### UI/UX Design
 ![Skills](https://skillicons.dev/icons?i=figma,webflow)
