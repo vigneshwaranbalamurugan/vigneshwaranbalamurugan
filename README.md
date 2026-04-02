@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/c1b6634e079ea6d466c6a7ba85b6591fe110db7e/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;" width="100%" />
+  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/f369d117769146287aa02bb3dce2ec55f0354a31/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;" width="100%" />
 </h1>
 
 <div align="center">
