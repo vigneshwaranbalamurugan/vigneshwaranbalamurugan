@@ -2,12 +2,12 @@
   <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/f369d117769146287aa02bb3dce2ec55f0354a31/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;" width="100%" />
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://vigneshwaran.tech" target="_blank">
     🚀 <strong>Explore My Portfolio</strong> 🌐
   </a>
 </div>
-<br>
+<br> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
@@ -23,7 +23,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 - 🔭 I’m currently learning <b>Devops & AWS</b>
 - 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>
 - 😄 Pronouns: He,Him.
-- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)** 
+<!--- - 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)**--> 
 - 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
@@ -44,13 +44,13 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ## Tech Stack
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,js)
 
 ### Web Development
 ![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,tailwind,vite)
 
 ###  Frameworks & Libraries
-![Skills](https://skillicons.dev/icons?i=react,spring,django)
+![Skills](https://skillicons.dev/icons?i=react,spring)
 
 ### Databases
 ![Skills](https://skillicons.dev/icons?i=mysql,mongodb)
@@ -58,13 +58,14 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ### App Dev
 ![Skills](https://skillicons.dev/icons?i=react)
 
+<!--
 ### DevOps
 ![Skills](https://skillicons.dev/icons?i=docker,jenkins)
 
 ### UI/UX Design
 ![Skills](https://skillicons.dev/icons?i=figma,webflow)
 <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50">
-
+-->
 ### Cloud / Hosting
 ![Skills](https://skillicons.dev/icons?i=aws,netlify,vercel)
 <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/20bb4b459e85c303365179ea2e4446c1f08cb2ec/render.png" alt="render" width="49" height="49" style="border-radius:5px;" >
