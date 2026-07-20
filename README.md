@@ -45,30 +45,30 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ## Tech Stack
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,js)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,js,cs)
 
 ### Web Development
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,tailwind,vite)
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,tailwind,vite,angular)
 
 ###  Frameworks & Libraries
-![Skills](https://skillicons.dev/icons?i=react,spring)
+![Skills](https://skillicons.dev/icons?i=react,spring,dotnet)
 
 ### Databases
-![Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ### App Dev
 ![Skills](https://skillicons.dev/icons?i=react)
 
-<!--
 ### DevOps
-![Skills](https://skillicons.dev/icons?i=docker,jenkins)
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)
 
+<!--
 ### UI/UX Design
 ![Skills](https://skillicons.dev/icons?i=figma,webflow)
 <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50">
 -->
 ### Cloud / Hosting
-![Skills](https://skillicons.dev/icons?i=aws,netlify,vercel)
+![Skills](https://skillicons.dev/icons?i=aws,azure,netlify,vercel)
 <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/20bb4b459e85c303365179ea2e4446c1f08cb2ec/render.png" alt="render" width="49" height="49" style="border-radius:5px;" >
 
 ### Tools & IDEs
