@@ -18,12 +18,13 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 
 ## About Me
+- 💼 Associate Engineer Intern at <b>Presidio</b>
 - 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-- 🌱 I’m currently working on <b>Spring Boot Framework</b>
-- 🔭 I’m currently learning <b>Devops & AWS</b>
+- 🌱 I’m currently working on <b>ASP.NET Core Web API</b>
+- 🔭 I’m currently learning <b>Devops & Azure</b>
 - 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>
 - 😄 Pronouns: He,Him.
-<!--- - 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)**--> 
+- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)
 - 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
