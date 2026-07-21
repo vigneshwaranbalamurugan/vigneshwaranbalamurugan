@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/f369d117769146287aa02bb3dce2ec55f0354a31/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;" width="100%" />
+  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/6700e900f45b36dea7e972748b30cb3c634327c8/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;" width="100%" />
 </h1>
 
 <!-- <div align="center">
@@ -34,7 +34,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:vigneshwaranb.22cse@kongu.edu"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vigneshwaranb.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vigneshwaran30/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/22CSR235"><img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://leetcode.com/vigneshwaranbalamurugan/"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
