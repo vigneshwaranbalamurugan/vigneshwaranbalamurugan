@@ -14,7 +14,7 @@
 
 ## Welcome to My Profile! 👋 
 
-I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
+I'm Vigneshwaran, a passionate Software Engineer from Rasipuram, Tamil Nadu, India.
 
 
 ## About Me
